@@ -20,9 +20,9 @@ let package = Package(
             name: "KDEAudioPlayer",
             dependencies: [],
             path: "AudioPlayer/AudioPlayer",
-            exclude: [
-                "utils/MPNowPlayingInfoCenter+AudioItem.swift"
-            ],
+            // exclude: [
+            //     "utils/MPNowPlayingInfoCenter+AudioItem.swift"
+            // ],
             sources: ["."],
             publicHeadersPath: "",
             linkerSettings: [
