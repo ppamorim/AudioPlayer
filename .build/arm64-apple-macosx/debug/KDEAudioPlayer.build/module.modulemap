@@ -1,0 +1,4 @@
+module KDEAudioPlayer {
+    header "/Users/ppamorim/Repository/Fork/AudioPlayer/.build/arm64-apple-macosx/debug/KDEAudioPlayer.build/KDEAudioPlayer-Swift.h"
+    requires objc
+}
